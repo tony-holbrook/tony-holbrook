@@ -6,9 +6,9 @@ I help business owners build a business that's simple to run. Most problems in a
 
 ## Start here
 
-**[Second Brain Starter](https://github.com/bestboxtony/second-brain-starter)**: my AI Chief of Staff, free and open source. It is Claude and a folder of plain text files on your computer. About an hour to set up.
+**[Second Brain Starter](https://github.com/tony-holbrook/second-brain-starter)**: my AI Chief of Staff, free and open source. It is Claude and a folder of plain text files on your computer. About an hour to set up.
 
-Use it for 30 days. Then post in the [30-day check-in](https://github.com/bestboxtony/second-brain-starter/discussions/1): what worked, what did not, what you changed. I will post mine there too.
+Use it for 30 days. Then post in the [30-day check-in](https://github.com/tony-holbrook/second-brain-starter/discussions/1): what worked, what did not, what you changed. I will post mine there too.
 
 ## My websites
 
